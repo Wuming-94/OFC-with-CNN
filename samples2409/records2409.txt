@@ -1,0 +1,13 @@
+2. sp; VGG19(4 FC layer+Tanh); MSE; 1_2409 4096/512/128/6
+
+
+2509
+
+1. sp; VGG19(4 FC layer+Tanh); MSE; 1024/256/64/6
+
+2.
+
+
+
+
+
